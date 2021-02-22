@@ -1,5 +1,9 @@
 package main
 
+/*
+283. 移动零
+ */
+
 import "fmt"
 
 func moveZeroes(nums []int)  {
